@@ -1,0 +1,57 @@
+@media screen and (max-width: 480px) {
+  body {
+    background-color: gold;
+  }
+  div>#top {
+    height: 50%;
+    width: auto;
+  }
+  #earlyCareer>img {
+    width: 50%;
+    height: 70%;
+  }
+  #proCareer>img {
+    width: 290px;
+    height: 45%
+  }
+}
+
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 100%;
+}
+
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  float: right;
+}
+
+#bio > li {
+  padding: 10px;
+}
+
+#pro {
+  width: auto;
+}
+
